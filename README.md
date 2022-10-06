@@ -1,4 +1,4 @@
-# hckitacki2k19hf (now as 2k21 special edition)
+# hckitacki2k19hf (now as 2k21 and 2k22 special edition)
 
 This is my successful repository for the 2k21 challenge.
 
