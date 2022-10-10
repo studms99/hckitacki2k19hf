@@ -9,4 +9,4 @@ This file will be expanded with additional how-to's and installation guides.
 At the moment there are no special system requirements.
 
 Despite this you need internet access, unless you are physically at the GH arctic archive atm - of course (where network access is sufficient).
-This seems to be the case for ISP-employees, too.
+This seems to be the case for ISP-employees - with physical server access, too.
